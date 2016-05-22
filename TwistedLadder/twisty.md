@@ -1,5 +1,7 @@
 # A ladder with a twist - 300
-	Keith’s friends have just sent a [bitmap image](message.bmp) that Keith suspects to contain some sort of instructive text. Find the flag!
+	Keith’s friends have just sent a bitmap image that Keith suspects to contain some sort of instructive text. Find the flag!
+
+[image](message.bmp)
 
 ------------------
 
